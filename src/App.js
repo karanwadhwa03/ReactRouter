@@ -5,7 +5,7 @@ import About from "./about.js";
 
 function App() {
   return (
-    <Router> 
+    <Router basename="/"> 
       <Link to='/' style={{margin:'40px'}}>Home</Link>
       <Link to='/about'>About</Link>
 

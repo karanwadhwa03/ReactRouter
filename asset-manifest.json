@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/karanwadhwa03/ReactRouter/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/karanwadhwa03/ReactRouter/static/js/main.7fb448a8.chunk.js",
-    "main.js.map": "/karanwadhwa03/ReactRouter/static/js/main.7fb448a8.chunk.js.map",
-    "runtime-main.js": "/karanwadhwa03/ReactRouter/static/js/runtime-main.2698f9f7.js",
-    "runtime-main.js.map": "/karanwadhwa03/ReactRouter/static/js/runtime-main.2698f9f7.js.map",
-    "static/js/2.591053d7.chunk.js": "/karanwadhwa03/ReactRouter/static/js/2.591053d7.chunk.js",
-    "static/js/2.591053d7.chunk.js.map": "/karanwadhwa03/ReactRouter/static/js/2.591053d7.chunk.js.map",
-    "static/js/3.4383ea84.chunk.js": "/karanwadhwa03/ReactRouter/static/js/3.4383ea84.chunk.js",
-    "static/js/3.4383ea84.chunk.js.map": "/karanwadhwa03/ReactRouter/static/js/3.4383ea84.chunk.js.map",
-    "index.html": "/karanwadhwa03/ReactRouter/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/karanwadhwa03/ReactRouter/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.591053d7.chunk.js.LICENSE.txt": "/karanwadhwa03/ReactRouter/static/js/2.591053d7.chunk.js.LICENSE.txt"
+    "main.css": "/ReactRouter/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactRouter/static/js/main.7fb448a8.chunk.js",
+    "main.js.map": "/ReactRouter/static/js/main.7fb448a8.chunk.js.map",
+    "runtime-main.js": "/ReactRouter/static/js/runtime-main.9813cb36.js",
+    "runtime-main.js.map": "/ReactRouter/static/js/runtime-main.9813cb36.js.map",
+    "static/js/2.591053d7.chunk.js": "/ReactRouter/static/js/2.591053d7.chunk.js",
+    "static/js/2.591053d7.chunk.js.map": "/ReactRouter/static/js/2.591053d7.chunk.js.map",
+    "static/js/3.4383ea84.chunk.js": "/ReactRouter/static/js/3.4383ea84.chunk.js",
+    "static/js/3.4383ea84.chunk.js.map": "/ReactRouter/static/js/3.4383ea84.chunk.js.map",
+    "index.html": "/ReactRouter/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactRouter/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.591053d7.chunk.js.LICENSE.txt": "/ReactRouter/static/js/2.591053d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2698f9f7.js",
+    "static/js/runtime-main.9813cb36.js",
     "static/js/2.591053d7.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.7fb448a8.chunk.js"

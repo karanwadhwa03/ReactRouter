@@ -1,2 +1,5 @@
 https://stackoverflow.com/questions/44491184/react-router-does-not-work-in-production-and-surge-deployments#comment117468118_53294427
 https://www.pluralsight.com/guides/handling-react-routing-in-production
+https://www.andreasreiterer.at/fix-browserrouter-on-apache/
+https://www.youtube.com/watch?v=EDJW88iVORA
+https://www.youtube.com/watch?v=uTofiLVM3mg
